@@ -1,1 +1,2 @@
-# Watermark\nApplies a watermark "mark.png" on a folder of photos.
+# Watermark
+Applies a watermark "mark.png" on a folder of photos.
